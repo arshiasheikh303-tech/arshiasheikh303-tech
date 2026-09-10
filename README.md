@@ -1,6 +1,7 @@
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
+
  Hi, Arshia here!
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
 I'm a student and developer working on Python-based AI/ML projects — mostly RAG chatbots and automation tools, built to actually work, not just sit as tutorials.
 
 Right now I'm learning by building: taking an idea, wiring up the LLM and retrieval pieces, and pushing it until it's a real working app I can put on here.
