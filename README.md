@@ -1,7 +1,5 @@
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
-
 # Arshia Sheikh
 
 **AI & Full-Stack Developer · Python / LLM Systems**
