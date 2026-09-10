@@ -1,4 +1,7 @@
+view portfolio-arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app
+ 
  Hi, Arshia here!
+ 
 
 I'm a student and developer working on Python-based AI/ML projects — mostly RAG chatbots and automation tools, built to actually work, not just sit as tutorials.
 
