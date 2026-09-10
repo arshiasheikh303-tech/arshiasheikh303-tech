@@ -1,68 +1,74 @@
-<div align="center">
+<h1 align="center">Hi, I'm Arshia 👋</h1>
+<h3 align="center">AI & Full-Stack Developer | Building end-to-end AI-powered applications</h3>
 
-# Arshia Firdous
-
-**AI & Full-Stack Developer · Python / LLM Systems**
-
-Lahore, Punjab, Pakistan · Open to Freelance & AI/ML Roles
-
-*I build AI systems that actually run in production — retrieval-augmented chatbots, tool-calling agents, and automation pipelines, not notebook demos.*
-
-<br/>
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/REACT-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
-![Groq](https://img.shields.io/badge/GROQ%20%2F%20LLAMA%203-F55036?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/CHROMADB-6E56CF?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
-![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+LLM+Integrations;Real-Time+WebSocket+Systems;Workflow+Automation+with+n8n" alt="Typing SVG" />
+</p>
 
 ---
 
-## About
+### 🚀 What I build
 
-Student and developer working across Python-based AI/ML systems — mostly retrieval-augmented chatbots, tool-calling agents, and automation platforms built to actually be used, not just demoed.
-
-My process: pick a real problem, wire up the LLM and retrieval layer, push through the parts that break, and ship something that holds up.
-
-## What I've Built
-
-**[Customer Support AI Chatbot (RAG)](https://github.com/arshiasheikh303-tech/Customer-Support-AI-chatbot-using-RAG)**
-Answers from your own documents instead of guessing — LangChain + Groq/LLaMA 3 for reasoning, ChromaDB for retrieval, Streamlit front end. Secrets handled properly via `.env` + `.gitignore`.
-
-**[AI Email Operations Platform](https://github.com/arshiasheikh303-tech/AI-Email-Operations-Platform)**
-A full automated Gmail assistant — FastAPI backend, Streamlit UI, n8n workflows, Google OAuth for secure access.
-
-**Multi-Document RAG Chatbot** `in progress`
-Upload several documents, chat across all of them at once — a step up from single-document retrieval.
-
-**Agent with Tools** `up next`
-An agent that acts, not just talks — live web search and a SQLite-backed calendar it can add/remove events from, reasoning powered by Groq.
-
-## Stack
-
-| Category | Tools |
-|---|---|
-| Languages | Python | HTML | JS|CSS
-| Backend | FastAPI, SQLite, PostgreSQL |
-| AI / LLM | Groq (LLaMA 3), LangChain, ChromaDB, RAG pipelines |
-| Frontend | React, Streamlit |
-| Automation | n8n |Zapier|
+- 🔍 **RAG pipelines** using LangChain, ChromaDB, and Groq API
+- ⚡ **Real-time systems** with WebSockets (live quiz battles, dashboards)
+- 🤖 **Workflow automation** for content & job-application pipelines with n8n
+- 🌐 **Full-stack apps**: FastAPI backends + React/Vite/TypeScript frontends
+- 📊 **AI-powered SaaS tools**: study companions, hiring automation, and more
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-**Let's build something.**
-Portfolio → [arshia-portfolio.vercel.app](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+</p>
 
-</div>
+**Deployment:** Railway (FastAPI backends) · Vercel (frontends) · Streamlit Community Cloud
+
+---
+
+### 📌 Featured Projects
+
+- **[BrainBattle.ai](https://github.com/arshiasheikh303-tech)** — Real-time 1v1 quiz platform (WebSockets)
+- **[Studora](https://github.com/arshiasheikh303-tech)** — AI-powered study companion SaaS
+- **[NovaHire](https://github.com/arshiasheikh303-tech)** — Job application automation platform
+- **[Student Exam Score Prediction](https://github.com/arshiasheikh303-tech)** — ML regression project (90% R²)
+
+> 🔗 Update these links to your actual repo URLs once pushed.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arshiasheikh303-tech&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiasheikh303-tech&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiasheikh303-tech&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>⭐️ Open to feedback, collabs, and interesting AI/full-stack projects!</i></p>
