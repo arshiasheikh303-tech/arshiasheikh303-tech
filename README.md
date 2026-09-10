@@ -52,11 +52,11 @@ An agent that acts, not just talks — live web search and a SQLite-backed calen
 
 | Category | Tools |
 |---|---|
-| Languages | Python |
+| Languages | Python | HTML | JS|CSS
 | Backend | FastAPI, SQLite, PostgreSQL |
 | AI / LLM | Groq (LLaMA 3), LangChain, ChromaDB, RAG pipelines |
 | Frontend | React, Streamlit |
-| Automation | n8n |
+| Automation | n8n |Zapier|
 
 ---
 
