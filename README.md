@@ -1,74 +1,79 @@
-<h1 align="center">Hi, I'm Arshia 👋</h1>
-<h3 align="center">AI & Full-Stack Developer | Building end-to-end AI-powered applications</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+LLM+Integrations;Real-Time+WebSocket+Systems;Workflow+Automation+with+n8n" alt="Typing SVG" />
-</p>
+# Arshia Sheikh
 
----
+**AI & Full-Stack Developer** · Python / LLM Systems
 
-### 🚀 What I build
+Lahore, Pakistan · Open to Freelance Work & AI/ML Roles
 
-- 🔍 **RAG pipelines** using LangChain, ChromaDB, and Groq API
-- ⚡ **Real-time systems** with WebSockets (live quiz battles, dashboards)
-- 🤖 **Workflow automation** for content & job-application pipelines with n8n
-- 🌐 **Full-stack apps**: FastAPI backends + React/Vite/TypeScript frontends
-- 📊 **AI-powered SaaS tools**: study companions, hiring automation, and more
+*I build AI systems end to end — retrieval, reasoning, and the backend to actually run them — not notebook demos.*
 
----
+<br/>
 
-### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/REACT-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-</p>
+![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge)
+![Groq](https://img.shields.io/badge/GROQ%20%2F%20LLAMA%203-F55036?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/CHROMADB-6E56CF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge)
+![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge)
 
-**Deployment:** Railway (FastAPI backends) · Vercel (frontends) · Streamlit Community Cloud
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+## About
 
-- **[BrainBattle.ai](https://github.com/arshiasheikh303-tech)** — Real-time 1v1 quiz platform (WebSockets)
-- **[Studora](https://github.com/arshiasheikh303-tech)** — AI-powered study companion SaaS
-- **[NovaHire](https://github.com/arshiasheikh303-tech)** — Job application automation platform
-- **[Student Exam Score Prediction](https://github.com/arshiasheikh303-tech)** — ML regression project (90% R²)
+I'm a student and developer building AI systems that go past the tutorial stage — retrieval-augmented chatbots that answer from real documents, agents that call tools and take action, and the backend infrastructure to actually run them.
 
-> 🔗 Update these links to your actual repo URLs once pushed.
+My process is simple: pick a real problem, wire up the LLM and retrieval layer, push through what breaks, and ship something I'd trust to run.
+
+## Featured Projects
+
+**[Customer Support AI Chatbot (RAG)](https://github.com/arshiasheikh303-tech/Customer-Support-AI-chatbot-using-RAG)**
+**Problem:** Generic chatbots guess; support bots need to answer from a real knowledge base.
+**Approach:** LangChain + Groq/LLaMA 3 for reasoning, ChromaDB for retrieval, Streamlit for the interface. Secrets handled through `.env` + `.gitignore` from the start.
+
+**[AI Email Operations Platform](https://github.com/arshiasheikh303-tech/AI-Email-Operations-Platform)**
+**Problem:** Manual inbox triage doesn't scale.
+**Approach:** FastAPI backend, Streamlit UI, n8n handling the automation workflows, Google OAuth wired in for secure access to a real Gmail account.
+
+**Multi-Document RAG Chatbot** `in progress`
+Extending single-document retrieval to handle multiple documents at once — upload several files, ask questions across all of them.
+
+**Agent with Tools** `up next`
+A CLI agent that acts instead of just answering — live web search and a SQLite-backed calendar it can add and remove events from, reasoning powered by Groq.
+
+## Stack
+
+| Category | Tools |
+|---|---|
+| Languages | Python |
+| Backend | FastAPI, SQLite, PostgreSQL |
+| AI / LLM | Groq (LLaMA 3), LangChain, ChromaDB, RAG pipelines |
+| Frontend | React, Streamlit |
+| Automation | n8n |
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arshiasheikh303-tech&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiasheikh303-tech&layout=compact&theme=radical&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arshiasheikh303-tech&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&text_color=333333&icon_color=009688&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiasheikh303-tech&layout=compact&theme=default&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=00000000)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshiasheikh303-tech&theme=radical&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 📫 Connect with me
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Let's build something.**
+Portfolio → [arshia-portfolio.vercel.app](https://arshia-portfolio-dx5dn9lw8-arshia-firdous303.vercel.app)
 
-<p align="center"><i>⭐️ Open to feedback, collabs, and interesting AI/full-stack projects!</i></p>
+</div>
