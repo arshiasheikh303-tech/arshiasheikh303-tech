@@ -1,6 +1,6 @@
 <div align="center">
 
-# Arshia Sheikh
+# Arshia Firdous
 
 **AI & Full-Stack Developer** · Python / LLM Systems
 
